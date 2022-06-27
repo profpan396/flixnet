@@ -11,21 +11,21 @@
     <img src="https://img.shields.io/badge/-Portfolio:_nisha.github.io-darkgreen?style=flat&logo=medium"/>
   </a>
   <a href="https://www.linkedin.com/in/nisha-yadav09/" target="_blank">
-    <img src="https://img.shields.io/badge/-linkedin.com/in/Nisha-blue?style=flat&``logo=Linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/-linkedin.com/in/Nisha-blue?style=flat&logo=Linkedin&logoColor=white">
   </a>
   <br>
   <a href="https://github.com/roger-davila"_target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio:_rogerdavila.io-darkgreen?style=flat&logo=medium"/>
   </a>
   <a href="https://www.linkedin.com/in/nisha-yadav09/" target="_blank">
-    <img src="https://img.shields.io/badge/-linkedin.com/in/RogerDavila-blue?style=flat&``logo=Linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/-linkedin.com/in/RogerDavila-blue?style=flat&logo=Linkedin&logoColor=white">
   </a>
   <br>
   <a href="https://github.com/prkrsamuels7"_target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio:_prkrsamuels.github.io-darkgreen?style=flat&logo=medium"/>
   </a>
   <a href="https://www.linkedin.com/in/parkersamuels/" target="_blank">
-    <img src="https://img.shields.io/badge/-linkedin.com/in/ParkerSamuels-blue?style=flat&``logo=Linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/-linkedin.com/in/ParkerSamuels-blue?style=flat&logo=Linkedin&logoColor=white">
   </a> 
 </div>
 
